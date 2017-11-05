@@ -4,7 +4,7 @@ import requests
 URL = "https://github.com"
 
 req = requests.get(URL)
-text = req.text()
+text = req.text
 i = 0
 
 for m in re.finditer(r"https?[^\"]*", text):
