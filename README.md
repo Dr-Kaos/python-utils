@@ -1,2 +1,2 @@
-# web-scraper
-Web scraping is data scraping used for extracting data from websites.
+# Some Python utils
+Some Python utils that i code, for fun and profit ;)
