@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+bin/
+include/
+lib/
+pip-selfcheck.json
+yahoo_finance.xml
